@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "user1@example.com",
+      "password": "password123"
+    },
+    {
+      "email": "user2@example.com",
+      "password": "mypassword"
+    },
+    {
+      "email": "user3@example.com",
+      "password": "securepass"
+    },
+    {
+      "email": "user4@example.com",
+      "password": "12345678"
+    },
+    {
+      "email": "user5@example.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "email": "user6@example.com",
+      "password": "letmein"
+    },
+    {
+      "email": "user7@example.com",
+      "password": "admin123"
+    },
+    {
+      "email": "user8@example.com",
+      "password": "welcome2024"
+    },
+    {
+      "email": "user9@example.com",
+      "password": "chocolate"
+    },
+    {
+      "email": "user10@example.com",
+      "password": "supersecret"
+    }
+  ]
+}
